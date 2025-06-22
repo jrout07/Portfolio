@@ -80,7 +80,7 @@ export const workData = [
     title: 'Portfolio',
     bgImage: '/work-1.png',
     githubLink: 'https://github.com/jrout07/My-Portfolio',
-    liveDemoLink: 'https://project-one-demo.com'
+    liveDemoLink: 'https://portfolio-jyoti-ranjan-rout.vercel.app/'
   },
   {
     title: 'Project',
