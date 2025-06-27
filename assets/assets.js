@@ -106,7 +106,7 @@ export const workData = [
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web devlopment', description: 'Web development is the process of building, programming...', link: '' },
     { icon: assets.ui_icon, title: 'Data Structures & Algorithms (DSA)', description: 'Strong problem-solving and optimization skills ...', link: '' },
-    { icon: assets.cloud_icon, title: 'Cloud Technology', description: 'Allows data access and services over the internet ...', link: '' },
+    { icon: assets.cloud-icon, title: 'Cloud Technology', description: 'Allows data access and services over the internet ...', link: '' },
     { icon: assets.graphics_icon, title: 'Competitive Programming', description: 'Efficient in algorithmic problem-solving and coding ...', link: '' },
 ]
 
