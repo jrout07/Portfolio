@@ -30,7 +30,7 @@ const Skills = () => {
       whileInView={{ opacity: 1 }}
       transition={{ delay: 0.7, duration: 0.5 }}
       className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-        Passionate about Web Development, DSA, and Competitive Programming. I enjoy building efficient, scalable applications and tackling real-world problems through clean code and smart algorithms. Continuously exploring new technologies to sharpen my skills and expand my impact.</motion.p>
+        Passionate about Web Development, Cloud Technology, DSA, and Competitive Programming. I enjoy building efficient, scalable applications and tackling real-world problems through clean code, smart algorithms, and cloud-based solutions. Continuously exploring new technologies to sharpen my skills and expand my impact across both development and deployment landscapes.</motion.p>
 
         <motion.div
         initial={{ opacity: 0 }}
