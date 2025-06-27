@@ -29,6 +29,7 @@ import close_black from './close-black.png';
 import close_white from './close-white.png';
 import web_icon from './web-icon.png';
 import mobile_icon from './mobile-icon.png';
+import cloud from './cloud.png'
 import ui_icon from './ui-icon.png';
 import graphics_icon from './graphics-icon.png';
 import right_arrow from './right-arrow.png';
@@ -68,6 +69,7 @@ export const assets = {
     close_white,
     web_icon,
     mobile_icon,
+    cloud,
     ui_icon,
     graphics_icon,
     right_arrow,
@@ -106,7 +108,7 @@ export const workData = [
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web devlopment', description: 'Web development is the process of building, programming...', link: '' },
     { icon: assets.ui_icon, title: 'Data Structures & Algorithms (DSA)', description: 'Strong problem-solving and optimization skills ...', link: '' },
-    { icon: assets.mobile_icon, title: 'Cloud Technology', description: 'Allows data access and services over the internet ...', link: '' },
+    { icon: assets.cloud, title: 'Cloud Technology', description: 'Allows data access and services over the internet ...', link: '' },
     { icon: assets.graphics_icon, title: 'Competitive Programming', description: 'Efficient in algorithmic problem-solving and coding ...', link: '' },
 ]
 
