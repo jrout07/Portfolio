@@ -85,10 +85,10 @@ export const workData = [
     liveDemoLink: 'https://portfolio-jyoti-ranjan-rout.vercel.app/'
   },
   {
-    title: 'Project',
+    title: 'Temperature Converter',
     bgImage: '/work-2.png',
-    githubLink: '',
-    liveDemoLink: ''
+    githubLink: 'https://github.com/jrout07/temperature-converter.git',
+    liveDemoLink: 'https://temperature-converter-theta-wheat.vercel.app/'
   },
   {
     title: 'Project',
