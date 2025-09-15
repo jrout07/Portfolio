@@ -91,7 +91,7 @@ export const workData = [
     liveDemoLink: 'https://temperature-converter-theta-wheat.vercel.app/'
   },
   {
-    title: 'Project',
+    title: 'Generative AI Application',
     bgImage: '/work-3.png',
     githubLink: '',
     liveDemoLink: ''
@@ -121,3 +121,4 @@ export const infoList = [
 export const toolsData = [
     assets.vscode, assets.mongodb, assets.figma, assets.git
 ];
+
