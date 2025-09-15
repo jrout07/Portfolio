@@ -79,7 +79,7 @@ export const assets = {
 };
 export const workData = [
   {
-    title: 'Portfolio',
+    title: 'Portfolio Website',
     bgImage: '/work-1.png',
     githubLink: 'https://github.com/jrout07/Portfolio',
     liveDemoLink: 'https://portfolio-jyoti-ranjan-rout.vercel.app/'
@@ -93,14 +93,8 @@ export const workData = [
   {
     title: 'Generative AI Application',
     bgImage: '/work-3.png',
-    githubLink: '',
-    liveDemoLink: ''
-  },
-   {
-    title: 'Project',
-    bgImage: '/work-4.png',
-    githubLink: '',
-    liveDemoLink: ''
+    githubLink: 'https://github.com/jrout07/gemini-clone.git',
+    liveDemoLink: 'https://gemini-clone-jr.vercel.app/'
   },
   
 ]
@@ -121,4 +115,5 @@ export const infoList = [
 export const toolsData = [
     assets.vscode, assets.mongodb, assets.figma, assets.git
 ];
+
 
