@@ -79,16 +79,16 @@ export const assets = {
 };
 export const workData = [
   {
-    title: 'Portfolio Website',
+    title: 'Google Drive Clone (AWS-CLOUD)',
     bgImage: '/work-1.png',
-    githubLink: 'https://github.com/jrout07/Portfolio',
-    liveDemoLink: 'https://portfolio-jyoti-ranjan-rout.vercel.app/'
+    githubLink: 'https://github.com/jrout07/Google-Drive-Clone-AWS-CLOUD.git',
+    liveDemoLink: ''
   },
   {
-    title: 'Temperature Converter',
+    title: 'Face Recognition Attendance System (AWS-CLOUD)',
     bgImage: '/work-2.png',
-    githubLink: 'https://github.com/jrout07/temperature-converter.git',
-    liveDemoLink: 'https://temperature-converter-theta-wheat.vercel.app/'
+    githubLink: 'https://github.com/jrout07/Face-Recognition-Attendance-System-Frontend--AWS-CLOUD.git',
+    liveDemoLink: ''
   },
   {
     title: 'Generative AI Application',
@@ -115,5 +115,6 @@ export const infoList = [
 export const toolsData = [
     assets.vscode, assets.mongodb, assets.figma, assets.git
 ];
+
 
 
